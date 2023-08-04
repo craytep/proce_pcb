@@ -1,0 +1,2 @@
+../Core/Src/proce_pcb.c:19:6:proce_init	8	static
+../Core/Src/proce_pcb.c:25:6:proce_loop	8	static

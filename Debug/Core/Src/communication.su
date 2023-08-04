@@ -1,0 +1,6 @@
+../Core/Src/communication.c:21:6:parse_package	24	static
+../Core/Src/communication.c:39:6:init_comm	8	static
+../Core/Src/communication.c:45:6:HAL_UART_ErrorCallback	16	static
+../Core/Src/communication.c:53:6:update_com	16	static
+../Core/Src/communication.c:79:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/communication.c:85:6:AddChecksumm8b	24	static
